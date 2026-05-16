@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-Gaming puroses
+Edited Gaming puroses
 For efootball players
 ## Acknowledgements
 
